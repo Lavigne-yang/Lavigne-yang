@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     </a>
   </div>
 
+  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavigne-yang" /> </div>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lavigne-yang&theme=radical" />
