@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </div>
 
   <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Lavigne-yang&theme=xcode" /> </div>
-  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavigne-yang" /> </div>
 
 </div>
 
